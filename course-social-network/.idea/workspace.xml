@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="61309f7a-71d0-4f1f-830b-975a6d8efc9e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network-ui/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/book-network-ui/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network-ui/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/book-network-ui/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network-ui/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/book-network-ui/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network-ui/src/app/app-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/book-network-ui/src/app/app-routing.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network-ui/src/app/modules/book/components/menu/menu.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/book-network-ui/src/app/modules/book/components/menu/menu.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network-ui/src/app/modules/book/pages/book-details/book-details.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/book-network-ui/src/app/modules/book/pages/book-details/book-details.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network-ui/src/app/modules/book/pages/book-list/book-list.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/book-network-ui/src/app/modules/book/pages/book-list/book-list.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network-ui/src/app/pages/activate-account/activate-account.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/book-network-ui/src/app/pages/activate-account/activate-account.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network-ui/src/app/pages/login/login.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/book-network-ui/src/app/pages/login/login.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network/src/main/java/com/alibou/book/BookNetworkApiApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network/src/main/java/com/alibou/book/auth/AuthenticationController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network/src/main/java/com/alibou/book/auth/AuthenticationRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network/src/main/java/com/alibou/book/auth/AuthenticationResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network/src/main/java/com/alibou/book/auth/AuthenticationService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network/src/main/java/com/alibou/book/auth/RegistrationRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network/src/main/java/com/alibou/book/book/Book.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network/src/main/java/com/alibou/book/book/BookController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network/src/main/java/com/alibou/book/book/BookMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network/src/main/java/com/alibou/book/book/BookRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network/src/main/java/com/alibou/book/book/BookRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network/src/main/java/com/alibou/book/book/BookResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network/src/main/java/com/alibou/book/book/BookService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network/src/main/java/com/alibou/book/book/BookSpecification.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network/src/main/java/com/alibou/book/book/BorrowedBookResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network/src/main/java/com/alibou/book/common/BaseEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network/src/main/java/com/alibou/book/common/PageResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network/src/main/java/com/alibou/book/config/ApplicationAuditAware.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network/src/main/java/com/alibou/book/config/BeansConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network/src/main/java/com/alibou/book/config/OpenApiConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network/src/main/java/com/alibou/book/email/EmailService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network/src/main/java/com/alibou/book/email/EmailTemplateName.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network/src/main/java/com/alibou/book/exception/ActivationTokenException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network/src/main/java/com/alibou/book/exception/OperationNotPermittedException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network/src/main/java/com/alibou/book/feedback/FeedBackRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network/src/main/java/com/alibou/book/feedback/Feedback.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network/src/main/java/com/alibou/book/feedback/FeedbackController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network/src/main/java/com/alibou/book/feedback/FeedbackMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network/src/main/java/com/alibou/book/feedback/FeedbackRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network/src/main/java/com/alibou/book/feedback/FeedbackResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network/src/main/java/com/alibou/book/feedback/FeedbackService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network/src/main/java/com/alibou/book/file/FileStorageService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network/src/main/java/com/alibou/book/file/FileUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network/src/main/java/com/alibou/book/handler/BusinessErrorCodes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network/src/main/java/com/alibou/book/handler/ExceptionResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network/src/main/java/com/alibou/book/handler/GlobalExceptionHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network/src/main/java/com/alibou/book/history/BookTransactionHistory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network/src/main/java/com/alibou/book/history/BookTransactionHistoryRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network/src/main/java/com/alibou/book/role/Role.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network/src/main/java/com/alibou/book/role/RoleRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network/src/main/java/com/alibou/book/security/JwtFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network/src/main/java/com/alibou/book/security/JwtService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network/src/main/java/com/alibou/book/security/SecurityConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network/src/main/java/com/alibou/book/security/UserDetailsServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network/src/main/java/com/alibou/book/user/Token.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network/src/main/java/com/alibou/book/user/TokenRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network/src/main/java/com/alibou/book/user/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network/src/main/java/com/alibou/book/user/UserRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network/src/main/resources/application-dev.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network/src/main/resources/templates/activate_account.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network/src/test/java/com/alibou/book/BookNetworkApiApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2kuLjVaT187D3p6tlhzrH3mg76w" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/USER/OneDrive - ESPRIT/Bureau/pf/book-social-network",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="61309f7a-71d0-4f1f-830b-975a6d8efc9e" name="Changes" comment="" />
+      <created>1724128649890</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1724128649890</updated>
+      <workItem from="1724128650953" duration="758000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

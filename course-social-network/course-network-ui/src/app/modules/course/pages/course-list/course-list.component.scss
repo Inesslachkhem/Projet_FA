@@ -1,0 +1,52 @@
+/* Appliquer un fond gris à la section contenant les cours */
+.courses-list-container {
+  background-color: #f0f0f0; /* Gris clair */
+  padding: 30px; /* Ajout d'un peu d'espace autour du contenu */
+  border-radius: 10px; /* Bordures arrondies pour un effet plus doux */
+}
+
+/* Style des cartes de cours */
+.course-card {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  padding: 15px;
+  background-color: #ffffff; /* Fond blanc pour chaque carte */
+  transition: transform 0.3s ease-in-out;
+}
+
+/* Effet au survol d'une carte */
+.course-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 6px 15px rgba(0, 0, 0, 0.2);
+}
+
+/* Optionnel: Améliorer l'apparence de la pagination */
+.pagination {
+  justify-content: center;
+}
+
+.pagination .page-item .page-link {
+  color: #007bff;
+}
+
+.pagination .page-item .page-link:hover {
+  background-color: #f1f1f1;
+}
+
+/* Style pour les alertes */
+.alert {
+  font-weight: bold;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.alert-danger {
+  background-color: #f8d7da;
+  border-color: #f5c6cb;
+}
+
+.alert-success {
+  background-color: #d4edda;
+  border-color: #c3e6cb;
+}

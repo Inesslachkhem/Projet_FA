@@ -1,0 +1,23 @@
+/* Ajouter un fond de couleur douce pour le conteneur de connexion */
+.login-container {
+  background-color: #faf8fa;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Changer la couleur des champs de saisie au focus */
+.form-control:focus {
+  border-color: #e600ff;
+  box-shadow: 0 0 0 0.25rem rgba(38, 255, 237, 0.25);
+}
+
+/* Bouton d'enregistrement avec couleur différente */
+.btn-link.text-primary {
+  color: #007bff;
+  font-weight: bold;
+}
+
+.btn-link.text-primary:hover {
+  color: #0056b3;
+  text-decoration: underline;
+}
